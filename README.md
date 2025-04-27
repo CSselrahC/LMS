@@ -1,9 +1,9 @@
 User class
-- id : String
-- lastName : String
-- firstName : String
-- password : String
-- userType : String
+\- id : String
+\- lastName : String
+\- firstName : String
+\- password : String
+\- userType : String
 
 Admin class extends User
 - accountManager : AccountManager
